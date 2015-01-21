@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/btcsuite/btcnet"
+	"github.com/monetas/btcnet"
 	"github.com/davecgh/go-spew/spew"
 )
 

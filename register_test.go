@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/btcsuite/btcnet"
+	. "github.com/monetas/btcnet"
 )
 
 // Define some of the required parameters for a user-registered

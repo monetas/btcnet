@@ -7,7 +7,7 @@ package btcnet
 import (
 	"time"
 
-	"github.com/btcsuite/btcwire"
+	"github.com/monetas/btcwire"
 )
 
 // genesisCoinbaseTx is the coinbase transaction for the genesis blocks for
